@@ -1,0 +1,6 @@
+Para uma compra na internet, um produto pode ser enviado por SEDEX ou por PAC. Na
+opção PAC, o custo é fixo para qualquer lugar de uma cidade. Na opção SEDEX, o preço é
+calculado usando o peso dos produtos. Modele e implemente uma solução para esse
+problema.
+
+Uso do padrão Strategy.
