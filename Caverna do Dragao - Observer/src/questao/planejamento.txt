@@ -1,0 +1,11 @@
+A ideia principal é envolver uma terceira classe (Caverna) e transformá-la no Sujeito (Subject) que
+gerencia o estado — como a contagem de ovos e se o dragão está acordado ou dormindo — enquanto
+Jogador e Mãe-Dragão se tornam Observadores (Observers) desse estado. Dessa forma:
+
+- O Jogador atualiza a caverna ao coletar um ovo (incrementa o contador de ovos).
+- A Caverna notifica todos os observadores a cada mudança.
+- A Mãe-Dragão observa a contagem de ovos e, ao chegar em 100, marca o dragão como acordado na caverna.
+- O Jogador (também observando a caverna) vê que o dragão acordou e reage a isso.
+
+Assim, cada classe tem seu papel claro e o código fica mais desacoplado:
+

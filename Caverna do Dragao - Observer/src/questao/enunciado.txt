@@ -1,0 +1,4 @@
+Em um jogo, existe uma sala cheia de ovos de dragões e a mãe-dragão dorme quieta em um canto da sala.
+Quando o seu personagem coleta 100 ovos, a mamãe dragão acorda para atacar você. Implemente, utilizando
+o padrão Observador, uma solução que permite que mãe-dragão seja avisada de quando o jogador completar
+a coleta dos 100 ovos.
