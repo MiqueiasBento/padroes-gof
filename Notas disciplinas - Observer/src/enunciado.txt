@@ -1,0 +1,3 @@
+Em uma universidade, alunos e a coordenadora desejam ser informados sobre a alteração
+de notas em uma disciplina. Implemente usando o padrão observer.Observer uma solução para esse
+problema.
