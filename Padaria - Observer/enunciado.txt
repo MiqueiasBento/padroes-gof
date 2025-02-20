@@ -1,0 +1,4 @@
+Uma padaria produz pão quentinho de tempos em tempos. Um conjunto de clientes
+solicitou a criação de uma aplicativo para avisá-los sempre que uma nova fornada fica
+pronta. Modele e implemente uma solução para a notificação utilizando o padrão
+Observer
