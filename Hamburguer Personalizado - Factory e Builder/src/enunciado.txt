@@ -1,0 +1,8 @@
+Imagine que você está desenvolvendo um sistema para uma hamburgueria que vende
+três tipos de hambúrgueres:
+1. Clássico – pão, carne e queijo.
+2. Duplo – pão, duas carnes e queijo.
+3. Vegano – pão integral, hambúrguer de grão-de-bico, alface e tomate.
+
+Cada hambúrguer pode ter adicionais personalizados, como bacon, cebola caramelizada
+ou molho especial.
