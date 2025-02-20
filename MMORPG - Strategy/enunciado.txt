@@ -1,0 +1,6 @@
+Em um jogo de MMORPG uma guerreira pode escolher entre duas armas. Uma espada
+de duas mãos, mais lenta, mas com ataque que dá 100 de dano a cada ataque. A outra
+é uma espada de uma mão apenas mais ágil que permite ataques mais rápidos, mas
+com apenas 50 de dano. Implemente esse problema usando o padrão *Strategy*. Dica:
+pode desconsiderar a velocidade da arma e apenas usar o dano. Sua resposta deve ser
+o código. (3 pontos)
