@@ -1,0 +1,3 @@
+Você decidiu em um sistema de uma disciplina não utilizar banco de dados e guardar os
+dados em memória. Implemente uma solução para guardar a lista de usuários de um
+sistema utilizando o padrão singleton
